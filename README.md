@@ -7,8 +7,8 @@ Standalone ZAP1 Merkle proof verifier for Zcash. Rust + WASM.
 ## Purpose
 
 `zap1-verify` verifies ZAP1 structured memo and Merkle proof data
-independent of the server runtime. Used by Nordic Shield and the ZAP1
-reference implementation.
+independent of the server runtime. Used by the ZAP1 reference
+implementation and production deployments on Zcash mainnet.
 
 It provides:
 
