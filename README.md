@@ -78,11 +78,11 @@ hash helpers.
 cargo test
 ```
 
-Current test status: `22 passed`.
+Current test status: `98 passed`.
 
 The test suite covers:
 
-- all 15 ZAP1 event types
+- all 18 ZAP1 event types
 - hex conversion helpers
 - Merkle root derivation
 - end-to-end proof verification against published vectors
